@@ -1,6 +1,6 @@
 # Blue Screen
 
-[![Blue Screen](gett-detail.png)](https://github.com/minit0ol/blue-screen)
+[![Blue Screen](gett-detail.png)](https://icncomputer.com/blue-screen/)
 
 you’re busy on the computer, working away unsuspectedly, and suddenly the entirely display disappears. For a short time, you see a blue screen with some information pop up. Before you can read everything, the PC shuts off and restarts itself. The Windows “blue screen of death” (BSOD), also known as a “STOP error” or “Bug Check”, is an infamous warning message about corrupt hardware, software, or drivers that force Windows to shut down. The blue screen is evidence of a critical system error. As a protective measure, the computer shuts down - causing you as the user to initially just stare at your screen in confusion or annoyance. Depending on your Windows version, the blue screen can look different.
 
